@@ -1,7 +1,8 @@
+package Chapters1To5;
+
 import java.time.temporal.ChronoUnit;
 import java.util.Arrays;
 import java.time.*;
-import java.util.Random;
 
 public class Chapter4 {
     public static void main(String[] args) {

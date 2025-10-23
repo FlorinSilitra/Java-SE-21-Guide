@@ -1,3 +1,5 @@
+package Chapters1To5;
+
 import java.util.Random;
 
 public class NumberPicker {
@@ -28,7 +30,10 @@ public class NumberPicker {
         System.out.println(negated);   // -6
         System.out.println(~negated);
 
+
         int b = 4;
         System.out.println(b = b++);
+
+        int var = 10;
     }
 }

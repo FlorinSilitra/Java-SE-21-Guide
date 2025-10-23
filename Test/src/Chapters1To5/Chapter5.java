@@ -1,3 +1,5 @@
+package Chapters1To5;
+
 import java.util.Arrays;
 
 public class Chapter5 {

@@ -1,6 +1,6 @@
-package packageb;
+package Chapters1To5.packageb;
 
-import packagea.ClassA;
+import Chapters1To5.packagea.ClassA;
 public class ClassB {
     public static void main(String[] args) {
         ClassA a;
