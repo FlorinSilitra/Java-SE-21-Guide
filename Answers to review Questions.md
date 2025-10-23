@@ -2,51 +2,51 @@ Chapter 1
 
 
 
-1\. E 			/ D E		incomplet
+1\. E 
 
-2\. C 			/ C D E		neatent
+2\. C 
 
-3\. A E G?		/ A E   	incomplet
+3\. A E G?
 
-4\. E G			/ B E G 	neatent
+4\. E G
 
-5\. A C F		/ A D F 	X
+5\. A C F
 
-6\. F			/ 		OK
+6\. F
 
-7\. A D F		/ C E		X
+7\. A D F
 
-8\. B D H		/ B D E H	incomplet
+8\. B D H
 
-9\. A E			/ E		X
+9\. A E
 
-10\. A E F		/ 		OK
+10\. A E F
 
-11\. E?			/ 		OK
+11\. E?
 
-12\. A (E H)		/ A C D 	X
+12\. A (E H)
 
-13\. A B C D E F G H I	/ A B C		GRESITA INTREBAREA
+13\. A B C D E F G H I
 
-14\. A D E		/ A B D E 	incomplet
+14\. A D E
 
-15\. C F			/ C E F		neatent
+15\. C F
 
-16\. C D F?		/ A D		X
+16\. C D F?
 
-17\. D F H		/ D F G		X
+17\. D F H
 
-18\. A B? C F		/ B C F		X
+18\. A B? C F
 
-19\. A D E		/ A D		X
+19\. A D E
 
-20\. F?			/ C		X
+20\. F?
 
-21\. D			/ 		OK
+21\. D
 
-22\. C F G		/ 		OK
+22\. C F G
 
-23\. D			/ A D 		incomplet
+23\. D
 
 
 
@@ -58,47 +58,45 @@ Chapter 2
 
 
 
-1\. A D G?		/ 		OK
+1\. A D G?
 
-2\. A B D 		/ 		OK
+2\. A B D
 
-3\. B C D F		/ 		OK
+3\. B C D F
 
-4\. A			/ B		neatent
+4\. A
 
-5\. A			/ A C		incomplet
+5\. A
 
-6\. E/F SAU B		/ F		relativ
+6\. E/F SAU B
 
-7\. G			/ D		sunt mare nepot.. (neatent)
+7\. G
 
-8\. E			/ A		X
+8\. E
 
-9\. A D E		/ 		OK
+9\. A D E
 
-10\. B			/ E		neatent
+10\. B
 
-11\. D			/ 		OK
+11\. D
 
-12\. D			/ 		OK
+12\. D
 
-13\. F			/ 		**OK**
+13\. F
 
-14\. B E G		/ 		OK
+14\. B E G
 
-15\. D			/ 		OK
+15\. D
 
-16\. B			/ 		OK
+16\. B
 
-17\. G			/ C F		preasupunere gresita
+17\. G
 
-18\. C			/ 		OK
+18\. C
 
-19\. B F H?		/ B F		preasupunere gresita
+19\. B F H?
 
-20\. C E			/ A D E		neatent + X
-
-
+20\. C E
 
 
 
@@ -106,67 +104,65 @@ Chapter 3
 
 
 
-1. F			/  		OK
+1. F
 
-2\. A B C D		/ A B C		X
+2\. A B C D
 
-3\. B			/  		OK
+3\. B
 
-4\. A D			/ A D F		X
+4\. A D
 
-5\. C			/ F		neatent
+5\. C
 
-6\. C/E			/ E		semi - OK
+6\. C/E
 
-7\. B D			/  		OK
+7\. B D
 
-8\. F/G			/ G		neatent
+8\. F/G
 
-9\. C			/ B C E		neatent
+9\. C
 
-10\. B			/ E		X
+10\. B
 
-11\. A			/  		OK
+11\. A
 
-12\. C			/  		OK
+12\. C
 
-13\. E			/ F		X
+13\. E
 
-14\. G			/  		OK
+14\. G
 
-15\. B D F		/  		OK
+15\. B D F
 
-16\. F			/  		OK
+16\. F
 
-17\. A B D		/  		OK
+17\. A B D
 
-18\. H			/ B E		neatent
+18\. H
 
-19\. F			/ E		X
+19\. F
 
-20\. A E			/  		OK
+20\. A E
 
-21\. C			/ D		neatent
+21\. C
 
-22\. G			/ E		X
+22\. G
 
-23\. F			/  		OK
+23\. F
 
-24\. D/E			/ B		neatent
+24\. D/E
 
-25\. D			/  		OK
+25\. D
 
-26\. F			/ 		OK
+26\. F
 
-27\. D			/ 		OK
+27\. D
 
-28\. B/F 		/ F		semi - OK
+28\. B/F
 
-29\. D			/ C		neatent
+29\. D
 
-30\. B			/ E		neatent
-
-
+30\. B
 
 
 
@@ -174,49 +170,49 @@ Chapter 4
 
 
 
-1\. F			/  		OK
+1\. F
 
-2\. C D E F  		/ C D E F
+2\. C D E F 
 
-3\. D E			/ A C D
+3\. D E	
 
-4\. A C E?		/ A C D
+4\. A C E?
 
-5\. B			/  		OK
+5\. B
 
-6\. C			/  		OK
+6\. C
 
-7\. A E			/  		OK
+7\. A E
 
-8\. A B E F		/ A B F
+8\. A B E F
 
-9\. A C F		/  		OK
+9\. A C F
 
-10\. A			/  		OK
+10\. A
 
-11\. E			/  		OK
+11\. E
 
-12\. B D			/ A D E
+12\. B D	
 
-13\. B			/  		OK
+13\. B
 
-14\. B F			/  		OK
+14\. B F	
 
-15\. C E			/  		OK
+15\. C E	
 
-16\. A G			/  		OK
+16\. A G	
 
-17\. C F			/  		OK
+17\. C F
 
-18\. B			/ A B D
+18\. B
 
-19\. B D			/ A D
+19\. B D
 
-20\. A C			/  		OK
+20\. A C
 
-21\. A			/  		OK
+21\. A
 
-22\. F			/ E
+22\. F
 
 
 
@@ -226,45 +222,45 @@ Chapter 5
 
 
 
-1. A C? E 		/ A E 		X
+1. A C? E
 
-2\. B C	 		/  		OK
+2\. B C
 
-3\. A D 			/  		OK
+3\. A D 
 
-4\. A B C E		/  		OK
+4\. A B C E
 
-5\. A C D 		/  		OK
+5\. A C D
 
-6\. A B F		/  		OK
+6\. A B F
 
-7\. D F			/  		OK
+7\. D F
 
-8\. D			/  		OK
+8\. D
 
-9\. D F			/ B C D F	neatent
+9\. D F
 
-10\. C E			/ B		X
+10\. C E
 
-11\. B E			/  		OK
+11\. B E
 
-12\. B			/  		OK
+12\. B
 
-13\. B			/ D		X
+13\. B
 
-14\. D			/ E		X
+14\. D
 
-15\. B			/  		OK
+15\. B
 
-16\. D			/ E		X
+16\. D
 
-17\. B			/  		OK
+17\. B
 
-18\. A D E		/ B D E		X
+18\. A D E
 
-19\. B C E F		/ B C E		neatent
+19\. B C E F
 
-20\. A E			/  		OK
+20\. A E
 
-21\. B D E		/ B D 		neatent
+21\. B D E
 
