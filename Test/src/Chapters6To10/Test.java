@@ -15,5 +15,6 @@ public class Test {
         favorites.clear();
         favorites.add("Chocolate Chip Cookies");
         System.out.println(zebra.getFavoriteFoodsItem(0));  // [Chocolate Chip Cookies]
+
     }
 }
