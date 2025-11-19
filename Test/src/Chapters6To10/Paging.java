@@ -24,7 +24,6 @@ public class Paging {
     private static void printPage(Stream<Sesame> monsters,
                                   Stream<Sesame> people) {
         Page page = Stream.concat(monsters, people)
-                .peek(System.out::println)
                 .collect(Collectors.teeing(
                         Collectors.filtering(s -> s.name().startsWith("E"),
                                 Collectors.toList()),
